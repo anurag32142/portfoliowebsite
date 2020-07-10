@@ -1,2 +1,6 @@
-# one-page-website-html-css-project-for-practice
-T
+Technology used
+HTML
+CSS
+JavaScript
+
+*** THANK YOU***
